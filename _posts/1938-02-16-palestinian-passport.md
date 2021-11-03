@@ -1,14 +1,15 @@
 ---
-title: דרכון ישראלי
+title: דרכון ארץ-ישראלי
 date: 1938-02-16
 categories:
   - doc
 tags:
   - itzhak
+  - passport
 ---
 
 סבא יצחק קיבל דרכון ארצישראלי והאריך אותו פעמיים.
-לא נראה שהוא השתמש בו אי פעם ולא ברור לי מדוע הוא הוציא אותי.
+לא נראה שהוא השתמש בו אי פעם ולא ברור לי מדוע הוא הוציא אותו.
 
 <figure class="half">
     <a  href="/haskindocs/assets/images/1938-02-16-palestinian-passport-1.jpg">
