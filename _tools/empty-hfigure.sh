@@ -20,10 +20,10 @@ tags:
 ---
 
 <figure class="half">
-    <a  href="/pupko-papers/assets/images/$name-1.jpg">
-    <img src="/pupko-papers/assets/images/$name-1.jpg"></a>
-    <a  href="/pupko-papers/assets/images/$name-2.jpg">
-    <img src="/pupko-papers/assets/images/$name-2.jpg"></a>
+    <a  href="/haskindocs/assets/images/$name-1.jpg">
+    <img src="/haskindocs/assets/images/$name-1.jpg"></a>
+    <a  href="/haskindocs/assets/images/$name-2.jpg">
+    <img src="/haskindocs/assets/images/$name-2.jpg"></a>
 </figure>
 
 EOF
