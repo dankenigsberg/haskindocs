@@ -5,6 +5,7 @@ categories:
   - doc
 tags:
   - itzhak
+  - army
 ---
 
 <figure class="half">
