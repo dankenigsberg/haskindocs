@@ -6,6 +6,7 @@ categories:
 tags:
   - itzhak
   - kfarbilu
+  - idcard
 ---
 
 התאריך משוער, כי קשה מאוד לקרוא את השנה.
