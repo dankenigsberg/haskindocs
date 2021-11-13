@@ -32,5 +32,9 @@ tags:
     <img src="/haskindocs/assets/images/1990-05-05-red-booklet-09.jpg"></a>
     <a  href="/haskindocs/assets/images/1990-05-05-red-booklet-10.jpg">
     <img src="/haskindocs/assets/images/1990-05-05-red-booklet-10.jpg"></a>
+    <a  href="/haskindocs/assets/images/1990-05-05-red-booklet-11.jpg">
+    <img src="/haskindocs/assets/images/1990-05-05-red-booklet-11.jpg"></a>
+    <a  href="/haskindocs/assets/images/1990-05-05-red-booklet-12.jpg">
+    <img src="/haskindocs/assets/images/1990-05-05-red-booklet-12.jpg"></a>
 </figure>
 
