@@ -9,7 +9,8 @@ tags:
   - nehama
 ---
 
-ולבושתי, אינני יודע מי היא דודה רוזה בובוב מסנטה מוניקה...
+דודה רוזה בובוב מסנטה מוניקה
+היא אחותו של משה חסקין, אבא של סבא יצחק.
 
 <figure class="half">
     <a  href="/haskindocs/assets/images/1978-12-05-trees-for-israel.jpg">
