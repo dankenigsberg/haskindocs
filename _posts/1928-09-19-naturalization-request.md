@@ -12,6 +12,10 @@ tags:
 כתלמיד-ישיבה שהתפקר הוא לא נשבע באלוהים, אלא "מודיע בגלוי ובאמת בהן-צדק שאהיה נאמן ונשמע
 לממשלת פלשתינה (א"י)".
 
+מוזר שהוא מציג עצמו כרווק כאשר [ידוע לנו](/haskindocs/doc/1928/08/21/ktuba/)
+שהוא התחתן עם סבתא כחודש קודם להגשת הבקשה
+ב-1928-08-21.
+
 <figure class="half">
     <a  href="/haskindocs/assets/images/1928-09-19-naturalization-request-1.jpg">
     <img src="/haskindocs/assets/images/1928-09-19-naturalization-request-1.jpg"></a>
