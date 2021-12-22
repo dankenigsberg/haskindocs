@@ -18,9 +18,9 @@ tags:
   - nehama
 ---
 
-![text](/pupko-papers/assets/images/$postdate-content.jpg)
+![text](/haskindocs/assets/images/$postdate-content.jpg)
 
-![addresses](/pupko-papers/assets/images/$postdate-addresses.jpg)
+![addresses](/haskindocs/assets/images/$postdate-addresses.jpg)
 
 ## תרגום
 

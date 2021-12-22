@@ -8,9 +8,9 @@ tags:
   - needtrands
 ---
 
-![text](/pupko-papers/assets/images/1924-07-05-chisinau-1.jpg)
+![text](/haskindocs/assets/images/1924-07-05-chisinau-1.jpg)
 
-![addresses](/pupko-papers/assets/images/1924-07-05-chisinau-2.jpg)
+![addresses](/haskindocs/assets/images/1924-07-05-chisinau-2.jpg)
 
 ## תרגום
 
