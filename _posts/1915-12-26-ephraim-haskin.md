@@ -41,3 +41,16 @@ tags:
 Московской ???  
 ???  
 ??Конь У Хорыное??  
+
+וזו [מצבתו בהר הזיתים](https://mountofolives.co.il/he/deceased_card/%D7%90%D7%A4%D7%A8%D7%99%D7%9D-%D7%97%D7%A1%D7%A7%D7%99%D7%9F-ephraim-hisskin/#gsc.tab=0)
+<figure class="half">
+    <a  href="/haskindocs/assets/images/1915-12-26-ephraim-haskin-tombstone.jpg">
+    <img src="/haskindocs/assets/images/1915-12-26-ephraim-haskin-tombstone.jpg"></a>
+</figure>
+
+פ"נ  
+ת'ח וירא  
+מו"ה אפרים ב"ר  
+דוד חסקין  
+י"ט טבת תרע"ה  
+תנצב"ה
