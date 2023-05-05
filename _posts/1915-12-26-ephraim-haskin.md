@@ -5,6 +5,7 @@ categories:
   - pic
 tags:
   - needtrans
+  - ephraimI
 ---
 
 מי יוכל לעזור לי לפענח את מה שכתב [משה חסקין](https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%94_%D7%97%D7%A1%D7%A7%D7%99%D7%9F) על אביו אפרים,
